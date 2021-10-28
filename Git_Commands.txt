@@ -1,0 +1,6 @@
+Git install - apt install git -y
+Git Version - which git
+Git Initialization / started - git init
+Make sure Git Installed - ls -lrta
+Git status. if color is red its calle unstaged area - git status
+If we need to commit weneed to select the file first - git add .
